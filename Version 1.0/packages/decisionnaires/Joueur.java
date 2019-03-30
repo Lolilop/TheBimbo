@@ -7,7 +7,7 @@ import packages.etat.Objectif;
 import packages.map.Grille;
 
 /**
- * Crée un joeur
+ * Crée un joueur
  * @author TTurq
  * @version 1.0
  */
