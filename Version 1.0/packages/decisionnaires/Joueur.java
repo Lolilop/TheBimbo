@@ -3,7 +3,7 @@ package packages.decisionnaires;
 import static packages.etat.Etat.CaseLibre;
 import static packages.etat.Etat.Joueur;
 import static packages.etat.Etat.Objectif;
-import etat.Objectif;
+import packages.etat.Objectif;
 import packages.map.Grille;
 
 /**
