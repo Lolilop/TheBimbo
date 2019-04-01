@@ -1,3 +1,8 @@
+@Version 1.0
+[Main]1
+[Decisionnaires]0
+[
+
 FONCTIONS @Version 1.0
 
 *Création d'une grille
