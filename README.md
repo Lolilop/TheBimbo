@@ -8,7 +8,7 @@ FONCTIONS @Version 1.0
 
 *Création d'une IA Proba
 
-
+==========================
 
 *Joueur peut gagner en allant sur l'objectif
 
