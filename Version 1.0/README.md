@@ -1,16 +1,16 @@
 FONCTIONS @Version 1.0
 
-*CrÈation d'une grille
+*Cr√©ation d'une grille
 
 
 *Creation d'un joueur 
 
 
-*CrÈation d'une IA Proba
+*Cr√©ation d'une IA Proba
 
 ==========================
 
 *Joueur peut gagner en allant sur l'objectif
 
 
-*Joueur peut perde en Ètant manger par l'Ennemi
+*Joueur peut perdre en √©tant mang√© par l'Ennemi
