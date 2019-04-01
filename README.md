@@ -1,2 +1,0 @@
-# TheBimbo
-Projet Scolaire 
