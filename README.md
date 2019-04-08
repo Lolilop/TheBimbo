@@ -7,7 +7,6 @@ Nouvelles versions dispos 3.1 avec des bugs!!
 1) Problème d'utilisation des sauvegardes
 
    		fig__1 Png : montre l'initialisation de la grille (par défaut)
-	
 		fig__2 Png : montre l'initialisation de la grille (par sauvegarde) 
 		fig__3 Png : montre l'état de la grille après mouvement
 	 
