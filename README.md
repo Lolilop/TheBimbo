@@ -39,3 +39,10 @@
 2) Rajouter des cases obstacle (ia miroir)
 3) Translation de la grille
 
+# I) Info
+
+1) Création d'un fichier html avec les infos du programme
+   a) temps fonctions
+   b) ram
+   c) positions x y des objets
+   d) etat de la grille
