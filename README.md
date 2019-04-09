@@ -1,35 +1,41 @@
-# Problèmes avec les mails de L'urca je t'écris ici
+# Fonctions à rajouter
 
-Nouvelles versions dispos 3.1 avec des bugs!!
-
-# A) Fusion des deux parties reste des bugs...
+# A) Sauvegarde
 		
-1) Problème d'utilisation des sauvegardes
+1) Sauvegarde automatique
 
-   		fig__1 Png : montre l'initialisation de la grille (par défaut)
-		fig__2 Png : montre l'initialisation de la grille (par sauvegarde) 
-		fig__3 Png : montre l'état de la grille après mouvement
-	 
-2) Problème lors des mouvements
-
-		Plus possible de se déplacer correctement (Nord, Sud, Est, Ouest)
+# B) Adversaire
 		
-3) Des fonctions qui ne fonctionnent pas ?
+1) Ia miroir
+2) Ia Learn
+3) Choix de l'ia
 
-		pas de pause?
-# B) Fonctions à ajouter
+# C) Interface 
+
+1) Musique 
+
+# D) Démarrage
+
+1) Barre de chargement
+
+# E) Menu
+
+1) Demande du nom d'utilisateur
+2) Sauvegarde et récupération du nom 
+
+# F) Options 
+
+1) Augmenter et diminuer la musique 
+2) Stop et Continuer la musique
+
+# G) GameLauncher
 		
-1) Sauvegarde lorsqu'on quitte le jeu
-2) Sauvegarde automatique
-3) Musique (play pause ..)
-4) Possibilité d'avoir un rapport de l'avancement du jeu sur une page HTML ?
+1) Amélioration des boutons de direction
+2) Mouvement grâce aux fleches du clavier 
 
-# C) De nouveaux modes de jeux?
-		
-1) Élargissement de la grille
-2) Ennemie et joueuse => Objectif
-3) Plusieurs ennemies ou joueurs => Objectif
-4) Rajouter Obstacle plus ia Miroir
-5) Translation de la grille Brain Fuck ?
+#  H) Modes
 
-Voilà je te laisse débuguer les 2 ou 3 bugs restants et me dire ce que tu penses des news fonctions et mode
+1) Implementation de plusieurs joueurs et ou ennemis
+2) Rajouter des cases obstacle (ia miroir)
+3) Translation de la grille
+
