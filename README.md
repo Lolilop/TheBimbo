@@ -26,7 +26,7 @@
 # F) Options 
 
 1) Augmenter et diminuer la musique 
-2) Stop et Continuer la musique
+2) Stoper et Continuer la musique
 
 # G) GameLauncher
 		
