@@ -2,7 +2,7 @@
 
 # A) Sauvegarde
 		
-	fini !!!
+	fini !!! (auto  et après avoir quitter)
 
 # B) Adversaire
 		
