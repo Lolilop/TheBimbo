@@ -664,8 +664,8 @@ public class GameLauncher extends javax.swing.JPanel {
         chrono.pause();
 
         if(chrono.getDureeSec() > 20) {
-            files.save(game, prob);
-            files.save(game, player);
+            files.save("src/packages/outils/fichiers/gestion_sauvegardes/" + game + "/joueur.txt", prob);
+            files.save("src/packages/outils/fichiers/gestion_sauvegardes/" + game + "/ia.txt", player);
             chrono.start();
             
         }
