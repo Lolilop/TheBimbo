@@ -10,4 +10,4 @@
 bug sur le fichier jar
   
   1) manque l'image du pac man
-  2) impossible de lancer une  (possible sur l'IDE)
+  2) impossible de lancer une partie (possible sur l'IDE)
