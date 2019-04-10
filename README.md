@@ -20,7 +20,6 @@
 
 # E) Menu
 
-1) Demande du nom d'utilisateur
 2) Sauvegarde et récupération du nom 
 
 # F) Options 
