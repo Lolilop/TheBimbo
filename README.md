@@ -2,7 +2,7 @@
 
 # A) Sauvegarde
 		
-1) Sauvegarde automatique
+	fini !!!
 
 # B) Adversaire
 		
