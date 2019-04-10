@@ -30,7 +30,6 @@
 
 # G) GameLauncher
 		
-1) Amélioration des boutons de direction
 2) Mouvement grâce aux fleches du clavier 
 
 #  H) Modes
