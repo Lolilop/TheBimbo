@@ -8,24 +8,23 @@ public class Chrono {
     private long pauseFin=0;
     private long duree=0;
 
-    public void start()
-        {
+    public void start() {
+        
         tempsDepart=System.currentTimeMillis();
         tempsFin=0;
         pauseDepart=0;
         pauseFin=0;
         duree=0;
-        }
+      }
 
-    public void pause()
-        {
-                if(tempsDepart==0) {return;}
+    public void pause() {
+        if(tempsDepart==0) {return;}
         tempsFin=System.currentTimeMillis();
         duree=(tempsFin-tempsDepart) - (pauseFin-pauseDepart);
-        }
+     }
 
     public void resume()
-        {
+    {
         if(tempsDepart==0) {return;}
         if(pauseDepart==0) {return;}
         pauseFin=System.currentTimeMillis();
@@ -34,10 +33,10 @@ public class Chrono {
         pauseDepart=0;
         pauseFin=0;
         duree=0;
-        }
+     }
         
     public void stop()
-        {
+    {
         if(tempsDepart==0) {return;}
         tempsFin=System.currentTimeMillis();
         duree=(tempsFin-tempsDepart) - (pauseFin-pauseDepart);
@@ -45,7 +44,7 @@ public class Chrono {
         tempsFin=0;
         pauseDepart=0;
         pauseFin=0;
-        }        
+     }        
 
     public long getDureeSec()
         {
