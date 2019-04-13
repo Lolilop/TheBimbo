@@ -3,6 +3,7 @@
 # A) Sauvegarde
 		
 	fini !!! (auto  et après avoir quitter)
+	Attention sauvegarde même en pause
 
 # B) Adversaire
 		
