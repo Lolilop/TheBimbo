@@ -19,9 +19,9 @@
 1) Barre de chargement
 
 # E) Menu
-
-2) Sauvegarde et récupération du nom 
-3) Effacement d'une partie
+	Fini !!!!
+	2) Sauvegarde et récupération du nom 
+	3) Effacement d'une partie
 
 # F) Options 
 
