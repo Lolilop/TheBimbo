@@ -43,6 +43,10 @@
 
 1) Création d'un fichier html avec les infos du programme
    a) temps fonctions
+   
    b) ram
+   
    	c) positions x y des objets
+	
    d) etat de la grille
+   
